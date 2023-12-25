@@ -1,6 +1,6 @@
 # ASP.NET Core (.NET Framework)
 
-pool: Default
+pool: ServerPool
 
 variables:
   solution: '**/*.sln'
